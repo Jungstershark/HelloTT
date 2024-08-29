@@ -1,4 +1,8 @@
 # Hello TT
+[![GitHub license](https://img.shields.io/github/license/Jungstershark/HelloTT)](https://github.com/Jungstershark/HelloTT/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Jungstershark/HelloTT?style=social)](https://github.com/Jungstershark/HelloTT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Jungstershark/HelloTT?style=social)](https://github.com/Jungstershark/HelloTT/network/members)
+
 
 Welcome to the **Hello TT** chatbot project, developed for the Temasek X SUTD Gen AI Hackathon 2024. **Hello TT** is an innovative chatbot designed to assist users in resolving issues by utilizing textual information and screenshots. This chatbot creates a step-by-step guide to solving various issues, complemented by relevant screenshots for a more intuitive assistance experience.
 
@@ -78,3 +82,5 @@ Follow these steps to set up and run the **Hello TT** chatbot on your local mach
 ![HelloTT_Front_Page](/screenshots/HelloTT_Front_Page.png)
 
 ![HelloTT_Feedback](/screenshots/HelloTT_Feedback.png)
+
+
