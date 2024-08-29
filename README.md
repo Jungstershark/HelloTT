@@ -81,6 +81,4 @@ Follow these steps to set up and run the **Hello TT** chatbot on your local mach
 
 ![HelloTT_Front_Page](/screenshots/HelloTT_Front_Page.png)
 
-![HelloTT_Feedback](/screenshots/HelloTT_Feedback.png)
-
 
